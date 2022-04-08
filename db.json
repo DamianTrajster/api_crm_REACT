@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Deimos",
+      "email": "damiantrajster@gmail.com",
+      "telefono": "01123886926",
+      "notas": "dsadsafa",
+      "id": 1
+    },
+    {
+      "nombre": "Damian",
+      "empresa": "Deimos",
+      "email": "damian@gmail.com",
+      "telefono": "01123886926",
+      "notas": "dsadsafa",
+      "id": 2
+    }
+  ]
+}
